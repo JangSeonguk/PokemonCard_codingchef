@@ -15,3 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # PokemonCard_codingchef
+
+![Example Image](images/PokemonCard.png)
+
+Learn the basic widgets: Row, Column, Text, Image, and more.
